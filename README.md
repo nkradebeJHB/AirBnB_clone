@@ -43,7 +43,7 @@ In this step we write a command interpreter to manage our AirBnB objects.
 
 # Requirements
 
-~ Python Scripts
+* Python Scripts
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 - All your files should end with a new line
@@ -73,14 +73,14 @@ In this step we write a command interpreter to manage our AirBnB objects.
 - All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 
 # How to operate:
-- manage (create, update, destroy, etc) objects via a console / command interprete
+- manage (create, update, destroy) objects via a console.
 - Commands:
-~ help
-~ create
-~ show
-~ destroy
-~ update
-~ quit
+* help
+* create
+* show
+* destroy
+* update
+* quit
 
 # How to run:
 ```
